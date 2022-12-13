@@ -14,12 +14,12 @@ public class App{
 		Scanner x= new Scanner(System.in);
 		
 		System.out.println("|-------------------------------------------|");
-	      System.out.println("|    Sorsu Enrollment Management System     |");
-	      System.out.println("|            version 1.0 - ALPHA            |");
-	      System.out.println("|         by Armenius II M. Dolores         |");
-	      System.out.println("|                      &                    |");
-	      System.out.println("|             Rex Raul B. Rebamba           |");
-	      System.out.println("|-------------------------------------------|");
+	    System.out.println("|    Sorsu Enrollment Management System     |");
+	    System.out.println("|            version 1.0 - ALPHA            |");
+	    System.out.println("|         by Armenius II M. Dolores         |");
+	    System.out.println("|                      &                    |");
+	    System.out.println("|             Rex Raul B. Rebamba           |");
+	    System.out.println("|-------------------------------------------|");
 	      
 	      Scanner scanner = new Scanner(System.in);
 	      
